@@ -1,13 +1,14 @@
 import './App.css'
-
+import Navbar from './components/Navbar'
+// import { Routes, Route } from "react-router-dom";
 function App() {
  
 
   return (
-
-    <div className="bg-black text-white">
-    hi
-    </div>
+<>
+<Navbar/>
+</>
+    
   )
 }
 
