@@ -19,3 +19,17 @@
 .nav-links-mobile{
     display: none;
 }
+@media screen and (max-width: 1000px){
+    .nav_links{
+        display: block;
+        width: 100%;
+        font-size: 1.2rem;
+        padding: 2rem 0;
+        text-align: center;
+    }
+    .nav_links:hover{
+        background-color: #01959a;
+        transition: none;
+    }
+    
+}
