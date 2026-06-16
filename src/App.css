@@ -1,0 +1,21 @@
+.nav_links{
+    text-decoration: none;
+    color: #222;
+    font-size: 1.2rem;
+    font-weight: 600;
+    padding: 0.7rem 1rem;
+    white-space: nowrap;
+}
+.nav_links:hover{
+    background-color: #01959a;
+    color: #fff;
+    border-radius: 4px;
+    transition: all 0.2s ease-in-out;
+}
+
+.nav_links i{
+    padding-right:10px ;
+}
+.nav-links-mobile{
+    display: none;
+}
