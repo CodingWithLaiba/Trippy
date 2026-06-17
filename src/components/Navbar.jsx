@@ -39,7 +39,7 @@ export default function Navbar() {
   ];
   return (
     <div className="flex items-center justify-center w-full mt-6">
-    <nav className="flex items-center justify-between py-0 px-8 w-[95%] h-20 rounded-xl shadow-xl fixed z-50 top-5 bg-white">
+    <nav className="flex items-center justify-between py-0 px-8 w-[95%] h-20 rounded-xl shadow-[0_5px_15px_0_rgba(0,0,0,0.25)] fixed z-50 top-5 bg-white">
       <h1 className="text-black text-[2rem] cursor-pointer font-bold ">
         Trippy
       </h1>
