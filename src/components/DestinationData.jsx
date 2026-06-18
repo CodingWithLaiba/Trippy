@@ -4,7 +4,7 @@
 export default function DestinationData(props) {
   return (
     <>
-    <div className="flex justify-between items-center lg:mt-16 mt-10 flex-col-reverse lg:flex-row ">
+    <div className={props.cName}>
           <div className="lg:w-[45%] w-full  text-start  text-xl">
             <h2 className="text-2xl font-bold pb-4"> {props.heading}</h2>
             <p>
