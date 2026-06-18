@@ -2,6 +2,8 @@ import Hero from "../components/Hero"
 import Navbar from "../components/Navbar"
 import heroImage from '../assets/12.jpg'
 import Destination from "../components/Destination"
+import Trip from "../components/Trip"
+import Footer from "../components/Footer"
 
 export default function Home() {
   return (
@@ -17,6 +19,8 @@ export default function Home() {
     url= "/"
     />
     <Destination/>
+    <Trip/>
+    <Footer/>
     </>
     
   )
