@@ -12,7 +12,6 @@ A modern and responsive Tour & Travel website built with **React.js** and **Vite
 - 📞 Contact Form
 - 👤 Sign Up Page
 - 📱 Fully Responsive Design
-- ⚡ Fast Performance with Vite
 
 ## 🛠️ Technologies Used
 
@@ -70,7 +69,7 @@ A modern and responsive Tour & Travel website built with **React.js** and **Vite
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/tour-travel-website.git
+git clone https://github.com/CodingWithLaiba/tour-travel-website.git
 ```
 
 2. Navigate to the project directory:
@@ -97,16 +96,6 @@ npm run dev
 http://localhost:5173
 ```
 
-## 📸 Screens Included
-
-- Home Page
-- About Us Page
-- Services Page
-- Contact Page
-- Sign Up Page
-- Destination Gallery
-- Trip Packages
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome. Feel free to fork the repository and submit a pull request.
@@ -117,4 +106,4 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Developed with ❤️ using React and Vite.
+Developed with ❤️ by Coding With Laiba
