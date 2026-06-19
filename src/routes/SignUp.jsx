@@ -5,13 +5,13 @@ export default function SignUp() {
     <>
       <Navbar />
 
-      <div className="min-h-[calc(100vh-80px)] flex items-center justify-center px-4 py-12">
+      <div className="min-h-[calc(100vh-80px)] flex items-center justify-center mt-24 px-4 py-12">
         <div className="w-full max-w-lg">
           <h1 className="text-3xl md:text-4xl font-bold text-center mb-8">
             Sign Up Form
           </h1>
 
-          <form className="flex flex-col gap-4 p-6 md:p-8 rounded-xl shadow-[0_5px_25px_rgba(0,0,0,0.12)]">
+          <form className="flex flex-col gap-4 p-6 md:p-8 rounded-xl">
             <input
               type="text"
               placeholder="Name"
